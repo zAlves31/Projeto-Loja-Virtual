@@ -1,2 +1,2 @@
 # Projeto_loja_virtual
-Projeto em grupo 
+Projeto em grupo Github
